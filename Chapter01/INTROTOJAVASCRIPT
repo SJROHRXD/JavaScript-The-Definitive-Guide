@@ -1,0 +1,11 @@
+# CHAPTER 01: Introduction to JavaScript
+### Overview:
+
++ JavaScript is the most-deployed programming language in history
++ It's a high-level, dynamic, interpreted programming language
++ JS is well-suited to object-oriented and functional programming styles
++ Variables are untyped
++ Derives its first-class functions from Scheme
++ Derives its prototype-based inheritance from Self
+---
+### Names, Versions, Modes:
