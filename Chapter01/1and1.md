@@ -1,6 +1,14 @@
 # 1.1 Exploring JavaScript
 
 + JavaScript interpreter
+    + "A JavaScript engine is a software component that executes JavaScript code"
+    + The first engines were "mere interpreters"
+    + Modern engines use just-in-time compilation
+    + JIT, dynamic translation, run-time compilations; executing code that involves compilation during execution at run time, rather than before execution
+    + JIT, a combination of ahead-of-time, or AOT compilation, and interpretation
+    + Further investigate
+        + Adaptive Optimization
+        + late-bound data types
 + Web Developer Tools in web browser, CTRL + SHIFT + I, select Console tab
 + Node terminal
     + [Node.js v18.4.0 documentation](https://nodejs.org/api/cli.html)
